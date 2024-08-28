@@ -1,0 +1,20 @@
+
+import = [
+    "~/.config/alacritty/themes/themes/kanagawa_dragon.toml"
+]
+
+[font]
+size = 13.0
+
+[font.offset]
+x = 0
+y = 0
+
+[window]
+decorations = "full"
+opacity = 0.95
+startup_mode = "Windowed"
+
+[window.padding]
+x = 0
+y = 0
